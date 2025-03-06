@@ -1,0 +1,340 @@
+{
+    "Ödemeler": {
+        "Daire 1": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 21,
+                    "Ödenecek Tutar (TL)": 1260
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 26,
+                    "Ödenecek Tutar (TL)": 1560
+                }
+            }
+        ],
+        "Daire 2": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 20,
+                    "Ödenecek Tutar (TL)": 1200
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 26,
+                    "Ödenecek Tutar (TL)": 1560
+                }
+            }
+        ],
+        "Daire 3": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 1,
+                    "Ödenecek Tutar (TL)": 60
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 1,
+                    "Ödenecek Tutar (TL)": 60
+                }
+            }
+        ],
+        "Daire 4": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 1,
+                    "Ödenecek Tutar (TL)": 60
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 5,
+                    "Ödenecek Tutar (TL)": 300
+                }
+            }
+        ],
+        "Daire 5": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            }
+        ],
+        "Daire 6": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 24,
+                    "Ödenecek Tutar (TL)": 1440
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 29,
+                    "Ödenecek Tutar (TL)": 1740
+                }
+            }
+        ],
+        "Daire 7": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 7,
+                    "Ödenecek Tutar (TL)": 420
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 11,
+                    "Ödenecek Tutar (TL)": 660
+                }
+            }
+        ],
+        "Daire 8": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            }
+        ],
+        "Daire 9": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 2,
+                    "Ödenecek Tutar (TL)": 120
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 8,
+                    "Ödenecek Tutar (TL)": 480
+                }
+            }
+        ],
+        "Daire 10": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 11,
+                    "Ödenecek Tutar (TL)": 660
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 16,
+                    "Ödenecek Tutar (TL)": 960
+                }
+            }
+        ],
+        "Daire 11": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 9,
+                    "Ödenecek Tutar (TL)": 540
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 15,
+                    "Ödenecek Tutar (TL)": 900
+                }
+            }
+        ],
+        "Daire 12": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 8,
+                    "Ödenecek Tutar (TL)": 480
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 11,
+                    "Ödenecek Tutar (TL)": 660
+                }
+            }
+        ],
+        "Daire 13": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 3,
+                    "Ödenecek Tutar (TL)": 180
+                }
+            }
+        ],
+        "Daire 14": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 8,
+                    "Ödenecek Tutar (TL)": 480
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 10,
+                    "Ödenecek Tutar (TL)": 600
+                }
+            }
+        ],
+        "Daire 15": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 4,
+                    "Ödenecek Tutar (TL)": 240
+                }
+            }
+        ],
+        "Daire 16": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 13,
+                    "Ödenecek Tutar (TL)": 780
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 20,
+                    "Ödenecek Tutar (TL)": 1200
+                }
+            }
+        ],
+        "Daire 17": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            }
+        ],
+        "Daire 18": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 3,
+                    "Ödenecek Tutar (TL)": 180
+                }
+            }
+        ],
+        "Daire 19": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 3,
+                    "Ödenecek Tutar (TL)": 180
+                }
+            }
+        ],
+        "Daire 20": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 0,
+                    "Ödenecek Tutar (TL)": 0
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 11,
+                    "Ödenecek Tutar (TL)": 660
+                }
+            }
+        ],
+        "Daire 21": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 24,
+                    "Ödenecek Tutar (TL)": 1440
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 27,
+                    "Ödenecek Tutar (TL)": 1620
+                }
+            }
+        ],
+        "Daire 22": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 2,
+                    "Ödenecek Tutar (TL)": 120
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 2,
+                    "Ödenecek Tutar (TL)": 120
+                }
+            }
+        ],
+        "Daire 23": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 29,
+                    "Ödenecek Tutar (TL)": 1740
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 38,
+                    "Ödenecek Tutar (TL)": 2280
+                }
+            }
+        ],
+        "Daire 24": [
+            {
+                "13.02.2025": {
+                    "Harcanan Su (m³)": 44,
+                    "Ödenecek Tutar (TL)": 2640
+                }
+            },
+            {
+                "04.03.2025": {
+                    "Harcanan Su (m³)": 58,
+                    "Ödenecek Tutar (TL)": 3480
+                }
+            }
+        ]
+    }
+}
